@@ -36,3 +36,9 @@ Report structure:
 2. Sorting Algorithms: Introduced each of the chosen algorithms in turn, discussed their space and time complexity, and explained how each algorithm works using my own diagrams and different example input instances. 
 
 3. Implementation & Benchmarking: This section describes the process followed when implementing the Python application above, and presents the results of the benchmarking. Discussed how the measured performance of the algorithms differed
+
+#### How to run the application
+
+Please, in order to run the application, you will need toÇ
+1. Have all the files from the 5 sorting algorithms on the same folder
+2. Run the file sorting.py
