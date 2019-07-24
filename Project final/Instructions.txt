@@ -1,0 +1,2 @@
+#Please, in order to run the code, you will need to run the file sorting.py
+And have all the files from the 5 sorting algorithms on the same folder.
